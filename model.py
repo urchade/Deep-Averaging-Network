@@ -2,8 +2,8 @@ from torch import nn
 
 
 class DAN(nn.Module):
-    def __init__(self, n_emb=10, emb_dim=5, pad_idx=None, n_layers=5,
-                 hidden_size=16, n_outputs=2):
+    def __init__(self, n_emb, emb_dim, n_layers,
+                 hidden_size, n_outputs, pad_idx=0):
         super().__init__()
 
         self.emb_dim = emb_dim
@@ -27,6 +27,6 @@ class DAN(nn.Module):
 
     def forward(self, x):
         x = self.emb(x)
-        x = x.mean(dim=0)
+        x = x.mean(dim=0)  # Averaging
         x = self.layers(x.view(-1, self.emb_dim))
         return x

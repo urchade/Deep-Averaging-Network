@@ -3,7 +3,7 @@ from torch import nn
 
 class DAN(nn.Module):
     def __init__(self, n_emb, emb_dim, n_layers,
-                 hidden_size, n_outputs, pad_idx=0):
+                 hidden_size, n_outputs, activation=nn.ReLU(), pad_idx=0):
         super().__init__()
 
         self.emb_dim = emb_dim
@@ -16,7 +16,7 @@ class DAN(nn.Module):
 
         for i in range(n_layers):
             modules.append(nn.Linear(in_features, hidden_size))
-            modules.append(nn.SELU())
+            modules.append(activation)
             in_features = hidden_size
 
         modules.append(nn.Linear(hidden_size, n_outputs))

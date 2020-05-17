@@ -23,10 +23,11 @@ class DAN(nn.Module):
 
         if n_outputs == 1:
             modules.append(nn.Sigmoid())
+
         self.layers = nn.Sequential(*modules)
 
     def forward(self, x):
-        x = self.emb(x)
-        x = x.mean(dim=0)  # Averaging
-        x = self.layers(x.view(-1, self.emb_dim))
+        x = self.emb(x)  # (batch_size, seq_length, emb_dim)
+        x = x.mean(dim=1)  # Averaging
+        x = self.layers(x)
         return x

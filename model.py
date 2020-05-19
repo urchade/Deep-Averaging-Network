@@ -21,8 +21,8 @@ class DAN(nn.Module):
 
         modules.append(nn.Linear(hidden_size, n_outputs))
 
-        if n_outputs == 1:
-            modules.append(nn.Sigmoid())
+        # if n_outputs == 1:
+        #     modules.append(nn.Sigmoid())
 
         self.layers = nn.Sequential(*modules)
 

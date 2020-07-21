@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="382cadea-d9ec-40aa-9c6b-0ac07e840ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exponential-regression/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/pynn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/readme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/rrn_clf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../znets/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../znets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../znets/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../znets/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ewt7blszgi7yPRrk1d1BkhXlkQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/word_id" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\urchade\OneDrive - ISEP\Documents\NLP PROJECTS\rec_nlp\word_id" />
+      <recent name="C:\Users\urchade\OneDrive - ISEP\Documents\NLP PROJECTS\rec_nlp\templates" />
+      <recent name="C:\Users\urchade\OneDrive - ISEP\Documents\NLP PROJECTS\rec_nlp\data" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="382cadea-d9ec-40aa-9c6b-0ac07e840ed7" name="Default Changelist" comment="" />
+      <created>1595244316621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595244316621</updated>
+      <workItem from="1595244320577" duration="5398000" />
+      <workItem from="1595266801960" duration="16000" />
+      <workItem from="1595333284743" duration="17558000" />
+      <workItem from="1595353987265" duration="184000" />
+      <workItem from="1595354283608" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595354295371">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1595354295371" />
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1595244348688">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1595244348688" />
+    <state x="520" y="259" key="Github.ShareDialog" timestamp="1595352704209">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="520" y="259" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1595352704209" />
+    <state x="399" y="59" key="Github.UntrackedFilesDialog" timestamp="1595352739238">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="399" y="59" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1595352739238" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1595352767975">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1595352767975" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1595352767974">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1595352767974" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1595352767974">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1595352767974" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1595352767974">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1595352767974" />
+    <state width="647" height="367" key="XDebugger.FullValuePopup" timestamp="1595345294862">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="647" height="367" key="XDebugger.FullValuePopup/0.0.1280.720@0.0.1280.720" timestamp="1595345294862" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rec_nlp$rec_nlp.coverage" NAME="rec_nlp Coverage Results" MODIFIED="1595352544781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
